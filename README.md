@@ -1,2 +1,2 @@
 # RaspberryPI-CSharp
-Explorations developing C# on the raspberry pi
+The explorations of Chris Lind developing C# on the raspberry pi
